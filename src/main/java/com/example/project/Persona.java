@@ -7,4 +7,8 @@ public class Persona {
         this.DNI = DNI;
         this.nombre = nombre;
     }
+    
+    public void setDNI(String dni) {
+		this.DNI = dni;
+	}
 }
